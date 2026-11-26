@@ -1,6 +1,6 @@
 {
- "version": 6,
+ "version": 7,
  "minNative": 3,
- "sha256": "b2039618585a45653a2992e5f85bc3aca4ed38ab37ba3869b5f2cbff90a186ba",
- "sig": "MEUCICiXzhbrKMxI79yjh9RbYPbG5OQHUNmM9z3C+VTh7jT9AiEA6hWGaJ5Gq1AFeeI+hrCu127uJ013Zlw17FIbZv5Wciw="
+ "sha256": "1185a989176abbc1f94bff865080216cb40c014f3ccb60b693d656fb36fd85a2",
+ "sig": "MEQCIBZBF7T4uBPQFJ6LXI+9AEBdARp3ew2DBKqMVoiYN8P7AiAd7TpGXLQt5QiaajRnH3O9p47s4c93MkaI6pGPpgsDyA=="
 }
